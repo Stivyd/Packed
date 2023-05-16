@@ -23,7 +23,6 @@ public class MonthCalcServiceTest {
     @Test
     void exampleTwo() {
         MonthCalcService service = new MonthCalcService();
-
         int income = 100_000;
         int expenses = 60_000;
         int threshold = 150_000;
